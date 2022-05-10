@@ -1,3 +1,4 @@
 cccbbbaaaadiff確認
 git commit amend
 git merge
+conflict
